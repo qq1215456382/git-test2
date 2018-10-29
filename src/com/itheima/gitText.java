@@ -7,6 +7,8 @@ public class gitText {
         System.out.println("asdadasd");
         System.out.println("asdadasd");
         System.out.println("asdadasd");
+        System.out.println("asdadasd");
+        System.out.println("asdadasd");
 
 
     }
